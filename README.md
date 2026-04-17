@@ -5,7 +5,8 @@ natural language conversation with it — built on a production-grade
 RAG (Retrieval-Augmented Generation) pipeline.
 
 ## Live Demo
-[Click here to try it →](YOUR-HUGGINGFACE-URL-GOES-HERE)
+[Click here to try it →]https://huggingface.co/spaces/AabhavAmitabh/document-intelligence-chatbot
+
 
 ## What it does
 - Upload any PDF document
